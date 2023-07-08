@@ -16,6 +16,12 @@ Link: [mkonstantini.github.io/Spotlight/](https://mkonstantini.github.io/Spotlig
 3. Install dependencies:
    ``` npm install ```
 
+## Available Scripts
+```npm start```   
+```npm test```   
+```npm run build```    
+```npm run eject```   
+
 ## License
 This project is licensed under the [MIT Licence](https://choosealicense.com/licenses/mit/).
 
