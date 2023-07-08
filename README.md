@@ -1,6 +1,6 @@
 # Spotlight
 API dependent movie and tv-show website (non-commercial).  
-Link: [mkonstantini.github.io/Spotlight/](https://mkonstantini.github.io/Spotlight/)
+Link: [https://mk-spotlight.netlify.app/](https://mk-spotlight.netlify.app/)
 
 ## Technologies
 * HTML5 / CSS / JavaScript
