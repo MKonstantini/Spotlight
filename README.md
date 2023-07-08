@@ -1,2 +1,21 @@
 # Spotlight
-API dependent movie and tv-show website (non-commercial).
+API dependent movie and tv-show website (non-commercial).  
+Link: [mkonstantini.github.io/Spotlight/](https://mkonstantini.github.io/Spotlight/)
+
+## Technologies
+* HTML5 / CSS / JavaScript
+* REACT
+* TypeScript
+* Bootstrap v5.3
+* Font Awesome
+
+## Installation
+1. Clone the repository:
+   ``` git clone mkonstantini.github.io/Spotlight/ ```
+2. Navigate to the project directory using the ``` cd ``` terminal command.
+3. Install dependencies:
+   ``` npm install ```
+
+## License
+This project is licensed under the [MIT Licence](https://choosealicense.com/licenses/mit/).
+
